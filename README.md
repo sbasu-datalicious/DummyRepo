@@ -1,4 +1,5 @@
 <html>
+  <head><meta name="referrer" content="origin"></head>
 <body>
   <div id='fakeCookie'>
     <h1>Test Fake Cookie Telco Site</h1>
